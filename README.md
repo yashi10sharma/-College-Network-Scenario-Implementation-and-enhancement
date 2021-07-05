@@ -21,8 +21,8 @@ The network performance of any network depends on –
 * •	Type of medium used
 
 The network performance can be measured in terms of transit time and response time.
-Transit Time – is the time elapsed by sending message between sender and receiver
-Response Time – is the time between inquiry and response
+* Transit Time – is the time elapsed by sending message between sender and receiver
+* Response Time – is the time between inquiry and response
 Working on the basis of these facts, we are setting up our college network scenario into various topologies so as to get the best suited one i.e. once we get a topology which takes minimum time in transferring data across nodes we will work using that topology in simulator as well as practically in labs. The topology thus found will be suggested to our college for implementation.
 
 ### Implementation using Cisco Packet Tracer:-
