@@ -27,6 +27,6 @@ Working on the basis of these facts, we are setting up our college network scena
 
 ### Implementation using Cisco Packet Tracer:-
 sample layout of our present network
-[Block B](https://github.com/yashi10sharma/-College-Network-Scenario-Implementation-and-enhancement/blob/main/Block%20B.pkt)
-[Block D](https://github.com/yashi10sharma/-College-Network-Scenario-Implementation-and-enhancement/blob/main/Block%20D.pkt)
-[Main Network](https://github.com/yashi10sharma/-College-Network-Scenario-Implementation-and-enhancement/blob/main/Main%20Network.pkt)
+*[Block B](https://github.com/yashi10sharma/-College-Network-Scenario-Implementation-and-enhancement/blob/main/Block%20B.pkt)
+*[Block D](https://github.com/yashi10sharma/-College-Network-Scenario-Implementation-and-enhancement/blob/main/Block%20D.pkt)
+*[Main Network](https://github.com/yashi10sharma/-College-Network-Scenario-Implementation-and-enhancement/blob/main/Main%20Network.pkt)
